@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Leave-MeAlone",
+  "repo": "container-s1r9n80",
+  "name": "Leave-MeAlone",
+  "email": "99893035+Leave-MeAlone@users.noreply.github.com",
+}
